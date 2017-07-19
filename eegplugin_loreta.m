@@ -31,7 +31,7 @@
 
 function vers = eegplugin_loreta(fig, trystrs, catchstrs)
     
-    vers = 'loreta1.0';
+    vers = 'loreta2.0';
     if nargin < 3
         error('eegplugin_loreta requires 3 arguments');
     end;
